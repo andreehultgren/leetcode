@@ -14,4 +14,5 @@ I demonstrate my coding abilities here, by solving problems in LeetCode. I will 
 ## Problems Solved:
 
 - [x] Concatenation of array
+- [x] Palindrome number
 - [x] Two-sum
